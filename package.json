@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "yargs": "^17.7.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
